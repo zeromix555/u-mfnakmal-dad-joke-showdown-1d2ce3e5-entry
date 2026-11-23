@@ -1,0 +1,7 @@
+{
+  "name": "dad-joke-showdown-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One dad joke, written to /output/entry.txt, for the make.fun Dad Joke Showdown."
+}
